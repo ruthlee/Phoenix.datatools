@@ -1,4 +1,4 @@
-#' Turn categorical covariates into numeric values
+#' Turn categorical covariates into numeric values.
 #' 
 #' This function takes the categorical covariate covariate_name within an excel file and converts each level of the variable to a numeric value. Based on the as.numeric function, the categorical variables are assigned numbers in alphabetical order starting with 1. The new covariate values will be added as a column to the original excel sheet and a new file will be created in the directory specified. 
 #' @param directory The directory of the excel file. This must be the full directory name. An easy way to find this is to set the directory using RStudio's "Files" tab and copying and pasting the directory name from the console. Enter as a string (with quotations). 
