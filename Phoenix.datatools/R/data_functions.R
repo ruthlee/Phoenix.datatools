@@ -65,4 +65,3 @@ times_as_zeros <- function ( directory, filename, sheetindex, types, time_column
   
 }
 
-install("datatools")
