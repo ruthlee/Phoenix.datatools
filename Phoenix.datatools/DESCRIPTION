@@ -1,4 +1,4 @@
-Package: datatools
+Package: Phoenix.datatools
 Title: Tools for evaluating Excel sheets to go into Phoenix. 
 Version: 0.0.0.9000
 Authors@R: person("Kyelee", "Fitts", email = "kyelee.fitts@gmail.com", role = c("aut", "cre"))
